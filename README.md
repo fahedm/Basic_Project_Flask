@@ -8,4 +8,5 @@
 - Basic Database connection
 - Basic Logging Mechanism
 - Basic Error Handling
+- requirement.txt
   
